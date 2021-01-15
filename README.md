@@ -93,15 +93,22 @@ Aqui informamos para as pessoas como elas conseguem ajuda caso encontrem alguma 
 Basicamente, aqui iremos colocar informações sobre implementações futuras. Por exemplo, a implementação de uma nova funcionalidade.
 
 - item 01
--***Descrição:***
+    -***Descrição:***
 - item 02
--***Descrição:***
+    -***Descrição:***
 - item 03
--***Descrição:***
+    -***Descrição:***
 
 ## Como contribuir 
 
-Aqui você coloca como a pessoa pode contribuir para o seu projeto.
+Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
+
+- 💪 Se juntando ao time de desenvolvimento.
+- 🌟 Dando uma estrela no projeto.
+- 🐛 Reportando um Bug.
+- 😅 Indicando um vacilo que eu possa ter cometido.
+- 📄 Ajudando a melhorar a documentação.
+- 🚀 Compartilhando este projeto com seus amigos.
 
 ## Licença
 
